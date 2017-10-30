@@ -1,6 +1,6 @@
 {
   "name": "xerobot",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "A lit bot",
   "main": "index.js",
   "scripts": {
